@@ -25,7 +25,7 @@ Hellow world
 
 '''
 
-# string concatination
+# string concatenation
 
 
 print("helow" + "jalindar")
@@ -42,3 +42,4 @@ print("helow" + " " + "jalindar")
 
 print("helow" + " @ " + "jalindar")
 # helow @ jalindar
+
