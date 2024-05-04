@@ -4,3 +4,7 @@
 
 #Example input 35
 #Example output 8
+
+input = 35
+
+type(input)
