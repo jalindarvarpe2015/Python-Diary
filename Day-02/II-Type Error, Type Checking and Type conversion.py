@@ -22,3 +22,12 @@ num_char = len(input("enter your name"))
 new_num_char = str(num_char)
 
 print("your name has jalindar" + new_num_char + " characters")
+
+
+#Example
+
+print(70 + float("100.45"))
+# 170.45
+
+print(str(100) + str(50))
+#  10050
