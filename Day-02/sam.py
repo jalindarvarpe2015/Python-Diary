@@ -1,3 +1,3 @@
-input = 35
+str = 35
 
-type(input)
+print(type(str))

@@ -5,6 +5,15 @@
 #Example input 35
 #Example output 8
 
-input = 35
+input_number_str = str(35)
 
-type(input)
+first_digit_number = int(input_number_str[0])
+#print(first_digit_number)  -->3
+
+second_digit_number = int(input_number_str[1])
+# print(second_digit_number) ---> 5
+
+addition_of_two_digit = (first_digit_number + second_digit_number)
+
+print(addition_of_two_digit)
+# 8
