@@ -5,7 +5,7 @@
 #Example input 35
 #Example output 8
 
-input_number_str = str(35)
+input_number_str = "35"
 
 first_digit_number = int(input_number_str[0])
 #print(first_digit_number)  -->3
