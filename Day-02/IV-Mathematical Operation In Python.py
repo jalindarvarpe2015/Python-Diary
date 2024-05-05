@@ -21,11 +21,17 @@ print(2 ** 3)
 '''
 order of execution 
 
-parenthesis
-exponents
-multiplication
-division
-addition 
-subtraction.
+Parenthesis     ()
+Exponents       **
+Multiplication  *
+Division        /
+Addition        +
+Subtraction.    -
 
 '''
+
+
+
+
+print(3 * 3 + 3 / 3 -3 )
+# 7.0
