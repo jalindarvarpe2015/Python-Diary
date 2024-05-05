@@ -21,6 +21,9 @@ print(2 ** 3)
 '''
 order of execution 
 
+PEMDAS  --- > LR   ---> Left to Right 
+
+
 Parenthesis     ()
 Exponents       **
 Multiplication  *
@@ -30,8 +33,9 @@ Subtraction.    -
 
 '''
 
-
-
-
 print(3 * 3 + 3 / 3 -3 )
 # 7.0
+
+print(3 * (3 + 3) / 3 -3 )
+# 3.0
+
