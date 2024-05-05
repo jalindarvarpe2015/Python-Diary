@@ -29,3 +29,6 @@ weight = int(input("Enter ypur Height : "))
 BMI = weight / (height * height) 
 
 print("Your Body Mass Index (BMI) IS ", BMI)
+
+
+# Your Body Mass Index (BMI) IS  26.122448979591837
