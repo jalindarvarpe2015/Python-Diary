@@ -46,3 +46,15 @@ print(score)
 
 
 # F strings
+
+scoree  = 0
+height  = 1.8
+isWinning = True
+
+#f strings
+print(f"your score is {scoree}, your heght is {height}, your winnins is {isWinning}")
+# your score is 0, your heght is 1.8, your winnins is True
+
+# without f strings
+print("your score is ", scoree, "your heogth is ", height, "your winning is ", isWinning)
+# your score is  0 your heogth is  1.8 your winning is  True
