@@ -5,7 +5,7 @@ logical operator
 - Or
 - Not
 
-a = 12
+a = 12    #
 a > 15
 False
 
