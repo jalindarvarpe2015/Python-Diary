@@ -9,12 +9,11 @@ This structure allows you to create multi-dimensional data representations, whic
 nested_list = [[1,2,3],[4,5],[6,7,8]]
 
 # flattening the nested list using function
-
 def listObjectId(rolesArray):
-  values = []
-  for i in rolesArray:
-    for j in i:
-      values.append(j)
+    values = []
+    for i in rolesArray:
+        for j in i:
+            values.append(j)
     return values
 
 flat_list = listObjectId(nested_list)
